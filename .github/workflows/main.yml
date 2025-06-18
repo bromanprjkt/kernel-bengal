@@ -10,7 +10,7 @@ on:
         description: "Custom kernel source URL"
         required: true
         type: string
-        default: "https://github.com/bromanprjkt/kernel-bengal.git"
+        default: "https://github.com/bromanprjkt/kernel-bengal"
       kernelPrivateSource:
         description: "Is private source?"
         required: false
